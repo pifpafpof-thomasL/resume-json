@@ -1,0 +1,88 @@
+name: 'Thomas LECHEVALIER'
+info:
+meta:
+  format: FRESH@0.6.0
+  version: 0.1.0
+location:
+  city: 'Toulouse / Remote'
+  region: ""
+  country: ""
+  code: ""
+  address: ""
+employment:
+  history:
+    -
+      position: CEO/President
+      employer: 'Pied Piper'
+      summary: 'Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has consistently fielded high Weisman Scores™ that are not merely competitive, but approach the theoretical limit of lossless compression.'
+      start: '2013-12-01'
+      end: '2014-12-01'
+      url: 'https://piedpiper.com'
+      keywords: []
+      highlights:
+        - 'Build an algorithm for artist to detect if their music was violating copy right infringement laws'
+        - 'Successfully won Techcrunch Disrupt'
+        - 'Optimized an algorithm that holds the current world record for Weisman Scores'
+education:
+  level: ""
+  history:
+    -
+      institution: 'University of Oklahoma'
+      start: '2011-06-01'
+      end: '2014-01-01'
+      grade: '4.0'
+      curriculum:
+        - 'DB1101 - Basic SQL'
+        - 'CS2011 - Java Introduction'
+      summary: ""
+      area: 'Information Technology'
+      studyType: Bachelor
+service:
+  history:
+    -
+      type: volunteer
+      position: Teacher
+      organization: CoderDojo
+      start: '2012-01-01'
+      end: '2013-01-01'
+      url: 'https://coderdojo.com/'
+      summary: 'Global movement of free coding clubs for young people.'
+      highlights:
+        - 'Awarded ''Teacher of the Month'''
+skills:
+  sets:
+    -
+      name: ""
+      level: ""
+      skills:
+        - ""
+        - ""
+        - Javascript
+        - ""
+        - 'selenium/nightwatch testing'
+        - 'github / gitlab'
+        - 'security matters'
+        - 'agile scrum kanban methodology'
+        - ' mvc, uml'
+        - 'sql/noSql db'
+        - 'amazon web services'
+        - docker
+writing: []
+recognition:
+  -
+    title: 'Digital Compression Pioneer Award'
+    date: '2014-11-01'
+    from: Techcrunch
+    summary: 'There is no spoon.'
+social: []
+interests:
+  -
+    name: Wildlife
+    keywords:
+      - Ferrets
+      - Unicorns
+testimonials: 0
+languages:
+  -
+    language: English
+    fluency: 'Native speaker'

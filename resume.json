@@ -1,0 +1,99 @@
+{
+  "basics": {
+    "name": "Thomas LECHEVALIER",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Toulouse / Remote",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "company": "Pied Piper",
+      "website": "https://piedpiper.com",
+      "position": "CEO/President",
+      "startDate": "2013-12-01",
+      "endDate": "2014-12-01",
+      "summary": "Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has consistently fielded high Weisman Scores™ that are not merely competitive, but approach the theoretical limit of lossless compression.",
+      "highlights": [
+        "Build an algorithm for artist to detect if their music was violating copy right infringement laws",
+        "Successfully won Techcrunch Disrupt",
+        "Optimized an algorithm that holds the current world record for Weisman Scores"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Oklahoma",
+      "gpa": "4.0",
+      "courses": [
+        "DB1101 - Basic SQL",
+        "CS2011 - Java Introduction"
+      ],
+      "startDate": "2011-06-01",
+      "endDate": "2014-01-01",
+      "area": "Information Technology",
+      "studyType": "Bachelor"
+    }
+  ],
+  "skills": [
+    {
+      "name": "",
+      "level": "",
+      "keywords": [
+        "",
+        "",
+        "Javascript",
+        "",
+        "selenium/nightwatch testing",
+        "github / gitlab",
+        "security matters",
+        "agile scrum kanban methodology",
+        " mvc, uml",
+        "sql/noSql db",
+        "amazon web services",
+        "docker"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "CoderDojo",
+      "position": "Teacher",
+      "startDate": "2012-01-01",
+      "endDate": "2013-01-01",
+      "website": "https://coderdojo.com/",
+      "summary": "Global movement of free coding clubs for young people.",
+      "highlights": [
+        "Awarded 'Teacher of the Month'"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Digital Compression Pioneer Award",
+      "date": "2014-11-01",
+      "awarder": "Techcrunch",
+      "summary": "There is no spoon."
+    }
+  ],
+  "interests": [
+    {
+      "name": "Wildlife",
+      "keywords": [
+        "Ferrets",
+        "Unicorns"
+      ]
+    }
+  ],
+  "references": 0,
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    }
+  ]
+}
